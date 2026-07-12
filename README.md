@@ -1,7 +1,25 @@
-# LeetCode_Problem_Solve
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
 <!---LeetCode Topics Start-->
+# 🚀 LeetCode Problem Solve
+
+A collection of Java solutions for LeetCode problems focused on improving problem-solving skills and preparing for technical interviews.
+
+## 💻 Tech Stack
+- Java
+
+## 📌 Topics
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+
+## 🎯 Goal
+To master Data Structures and Algorithms through consistent practice.
+
+⭐ Feel free to explore the solutions and learn together!
 # LeetCode Topics
 ## Array
 |  |
